@@ -14,7 +14,7 @@ Currently focused on:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Baksoman&theme=dark&hide_border=true&include_all_commits=true" height="160" />
@@ -23,7 +23,7 @@ Currently focused on:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -40,7 +40,7 @@ Currently focused on:
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools & DevOps
@@ -51,18 +51,7 @@ Currently focused on:
 
 ---
 
-## 🚀 Featured Interests
-
-* Web Application Development
-* Backend Engineering
-* Database Optimization
-* Software Architecture
-* API Development
-* Microservices
-
----
-
-## 📈 GitHub Streak
+## GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Baksoman&theme=dark&hide_border=true" />
@@ -70,7 +59,7 @@ Currently focused on:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://github.com/Baksoman">
