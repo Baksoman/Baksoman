@@ -1,8 +1,8 @@
 # Hi there, I'm Baksoman 👋
 
-### Informatics Student | Backend Developer | Software Engineering Enthusiast
+### Informatics Student | Full Stack Developer | Software Engineering Enthusiast
 
-I'm an Informatics student passionate about building scalable web applications, backend systems, databases, and software engineering solutions.
+I'm an Informatics student passionate about building scalable web applications, frontend & backend systems, databases, and software engineering solutions.
 
 Currently focused on:
 
@@ -68,6 +68,14 @@ Currently focused on:
 </div>
 
 ---
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Connect With Me
 
